@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <vector>
+#include <cstdint>
 
 inline int row = -1, col = -1;
 inline std::vector<uint8_t> neighbor_count;
